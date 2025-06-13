@@ -29,15 +29,10 @@ Here are a few of the projects I’ve been working on:
 
  - **[QuantumCare-Nexus](https://github.com/Manpreets59/QuantumCare-Nexus)**  
   _QuantumCare is an open-source web application designed to transform healthcare management. Developed using the powerful MERN stack, it offers seamless management of appointments, patient records, and doctor interactions, all in one convenient platform._
-  **Used**: Html, JavaScript,CSS
-- **[Weather](https://github.com/sainyathari/Weather-Updates.git)**  
-  _A website about the weather forecast using API and it's beginner project ._  
-  **Used**: ReactJs: Frontend development
-NodeJs: Backend runtime environment
-ExpressJs: Web application framework
-JavaScript: Core programming language
-TailwindCSS: Modern CSS framework
-MongoDB: NoSQL database management
+  **Used**: ReactJs, NodeJs, ExpressJs, JavaScript, TailwindCSS,MongoDB
+- **[Password-Manager](https://github.com/Manpreets59/Password-Manager)**  
+  _A secure and efficient password manager built with React and Vite, utilizing MongoDB for data storage. This project enables users to store passwords along with usernames and website URLs, ensuring accessibility and security ._  
+  **Used**: ReactJs, NodeJs, ExpressJs, JavaScript, TailwindCSS,MongoDB
 
 ---
 ### 🌟 I'm Currently Learning
